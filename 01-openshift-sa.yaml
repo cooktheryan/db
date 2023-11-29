@@ -4,5 +4,3 @@ metadata:
   creationTimestamp: null
   name: mysql-user
   namespace: mysql
-imagePullSecrets:
-  - name: pull-sec
