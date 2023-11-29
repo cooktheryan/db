@@ -5,4 +5,5 @@ metadata:
   name: mysql-user
   namespace: mysql
 imagePullSecrets:
+  # what is this???
   - name: pull-sec
